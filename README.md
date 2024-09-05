@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there 👋
+
+I'm a swiss software engineer currently working at the school named HEIG-VD.
+
+In paralel to work, I'm partaking in a Data Science master in Lausanne.
 
 <!--
 **GeraudSilvestri/GeraudSilvestri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
